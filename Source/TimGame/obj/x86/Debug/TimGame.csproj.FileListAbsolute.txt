@@ -1,0 +1,198 @@
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\obj\x86\Debug\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\CanGame\baseball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\CanGame\tincan.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\tinyBall.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\bat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\cat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\dog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\fly.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\frog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\monkey.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\mouse.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\solaire.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\Content\WordRecognition\spider.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\obj\x86\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\Dogware\obj\x86\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\obj\x86\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\obj\x86\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\CanGame\baseball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\CanGame\tincan.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\tinyBall.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\bat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\cat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\dog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\fly.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\frog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\monkey.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\mouse.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\solaire.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\Content\WordRecognition\spider.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame6 - BallMadness\TimGame\obj\x86\Debug\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\obj\x86\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\obj\x86\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\CanGame\baseball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\CanGame\tincan.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\tinyBall.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\bat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\cat.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\dog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\fly.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\frog.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\monkey.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\mouse.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\solaire.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\Content\WordRecognition\spider.jpg
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame7 - Polymorphism\TimGame\obj\x86\Debug\TimGame.csprojResolveAssemblyReference.cache
+D:\CsharpProjects\Bees!\TimGame\obj\x86\Debug\TimGame.exe
+D:\CsharpProjects\Bees!\TimGame\obj\x86\Debug\TimGame.pdb
+D:\CsharpProjects\Bees!\TimGame\obj\x86\Debug\TimGame.csprojResolveAssemblyReference.cache
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\FunSized.xnb
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\ball.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\bee.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\honey.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\honeyFrame.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\SelectionArrow.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\tinyBall.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\TimGame.exe
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\TimGame.pdb
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\MonoGame.Framework.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\MonoGame.Framework.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\flower.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Debug\Content\stack.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\TimGame.exe
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\FunSized.xnb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\ball.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\blt.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\bottle_empty.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\bottle_filling.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\chest.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\dog.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\floor.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\key.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\SelectionArrow.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\Content\wall.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x64\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x64\lua52.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x64\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x86\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x86\lua52.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\x86\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\TimGame.pdb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\MonoGame.Framework.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\MonoGame.Framework.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Debug\TimGame.csprojResolveAssemblyReference.cache
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Debug\TimGame.exe
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Debug\TimGame.pdb

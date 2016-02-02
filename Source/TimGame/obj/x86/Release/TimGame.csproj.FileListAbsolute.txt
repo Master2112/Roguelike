@@ -1,0 +1,240 @@
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\FunSized.xnb
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\ball.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\bee.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\flower.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\honey.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\honeyFrame.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\stack.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\Content\tinyBall.png
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\TimGame.exe
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\TimGame.pdb
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+D:\CsharpProjects\Bees!\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Bees!\TimGame\obj\x86\Release\TimGame.exe
+D:\CsharpProjects\Bees!\TimGame\obj\x86\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\obj\x86\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\obj\x86\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\Content\honey.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame8 - Crazypong\TimGame\bin\Windows\Release\Content\Bat.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\obj\x86\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\obj\x86\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\Content\Bat.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\Content\honey.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame9 - Maze\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\obj\x86\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\obj\x86\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\Content\Bat.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\Content\honey.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame10 localPos\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\obj\x86\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\obj\x86\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\Content\FunSized.xnb
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\Content\ball.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\Content\Bat.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\Content\honey.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\TimGame.exe
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\TimGame.pdb
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Tim\Documents\HR\Csharp\Monogame11 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\FunSized.xnb
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\asteroid.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\ball.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\Bat.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\honey.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\tank.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x64\KeraLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x64\lua52.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x64\NLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x86\KeraLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x86\lua52.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\x86\NLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\UserScripts\botScript.lua
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\TimGame.exe
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\TimGame.pdb
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\KeraLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\NLua.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\obj\x86\Release\TimGame.exe
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\obj\x86\Release\TimGame.pdb
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\blt.png
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\wall.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.exe
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.pdb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\FunSized.xnb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\ball.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\blt.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\bottle_empty.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\bottle_filling.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\chest.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\dog.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\floor.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\key.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\wall.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x64\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x64\lua52.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x64\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x86\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x86\lua52.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x86\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\TimGame.exe
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\TimGame.pdb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\KeraLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\MonoGame.Framework.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\NLua.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.XInput.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\MonoGame.Framework.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.XInput.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
