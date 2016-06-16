@@ -24,7 +24,7 @@ namespace TimGame.Engine
         }
 
         private SpriteBatch spriteBatch;
-        private GraphicsDeviceManager graphics;
+        public GraphicsDeviceManager graphics;
         private TimGame.MainGame baseGame;
         private SpriteLoader spriteLoader;
 

@@ -56,17 +56,19 @@ namespace TimGame.Objects.World
 
                         lastTile = currTile;
 
-                        if(TRandom.Value < chestChancePerRoom)
+                        if (TRandom.Value < chestChancePerRoom)
                         {
                             if (!chests.Contains(currTile))
                                 chests.Add(currTile);
                         }
-
-                        for (int i = 0; i < TRandom.Range(0, maxEnemiesPerRoom); i++)
+                        else
                         {
-                            if(TRandom.Value < enemyChancePerRoom)
+                            for (int i = 0; i < TRandom.Range(0, maxEnemiesPerRoom); i++)
                             {
-                                enemies.Add(currTile);
+                                if (TRandom.Value < enemyChancePerRoom)
+                                {
+                                    enemies.Add(currTile);
+                                }
                             }
                         }
                     }

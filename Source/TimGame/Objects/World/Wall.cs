@@ -7,7 +7,7 @@ using TimGame.Engine;
 
 namespace TimGame.Objects.World
 {
-    class Wall : GameObject
+    class Wall : WorldObject
     {
         float collToggleTime = 0.5f;
 

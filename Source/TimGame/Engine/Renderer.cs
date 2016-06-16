@@ -87,17 +87,20 @@ namespace TimGame.Engine
                     int width = Texture.Width / cols;
                     int height = Texture.Height / rows;
 
-                    while (ImageIndex > Frames)
+                    while (ImageIndex >= Frames)
                         ImageIndex -= Frames;
 
-                    int xPos = width * ImageIndex;
-                    int yPos = 0;
+                    int xIndex = ImageIndex % cols;
+                    int yIndex = (int)Math.Floor((float)(ImageIndex / cols));
 
-                    while(xPos >= Texture.Width)
+                    int xPos = width * xIndex;
+                    int yPos = height * yIndex;
+
+                    /*while(xPos >= Texture.Width)
                     {
                         xPos -= Texture.Width;
                         yPos += height;
-                    }
+                    }*/
 
                     sourceRect.X = xPos;
                     sourceRect.Y = yPos;
@@ -111,7 +114,7 @@ namespace TimGame.Engine
                     origin.Y = (float)height / 2;
                 }
 
-                batch.Draw(Texture, owner.transform.Position - CameraOffset, sourceRect, BlendColor, owner.transform.Rotation, origin, Scale, SpriteEffects.None, 0);
+                batch.Draw(Texture, owner.transform.Position - CameraOffset, sourceRect, BlendColor * ((float)(BlendColor.A)/255), owner.transform.Rotation, origin, Scale, SpriteEffects.None, 0);
                 //batch.Draw(Texture, owner.transform.Position, null, Color.White, owner.transform.Rotation, origin, 1, SpriteEffects.None, 0);
             }
             else

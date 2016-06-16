@@ -86,7 +86,7 @@ namespace TimGame.Engine
             return ranged.FindAll(o => o.Name == name && !o.destroyed);
         }
 
-        public Rectangle Bounds
+        public virtual Rectangle Bounds
         {
             get
             {

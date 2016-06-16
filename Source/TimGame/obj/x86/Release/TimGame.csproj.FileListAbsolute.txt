@@ -194,8 +194,6 @@ D:\CsharpProjects\Monogame12 - RoboArena\TimGame\obj\x86\Release\TimGame.pdb
 D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\blt.png
 D:\CsharpProjects\Monogame12 - RoboArena\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
 D:\CsharpProjects\Monogame12 - RoboArena\TimGame\bin\Windows\Release\Content\wall.png
-D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.exe
-D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.pdb
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\FunSized.xnb
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\ball.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\blt.png
@@ -203,9 +201,13 @@ D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\bot
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\bottle_filling.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\chest.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\dog.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\female_base.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\floor.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\key.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\male_base.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\portal.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\SelectionArrow.png
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\shortsword.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\wall.png
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x64\KeraLua.dll
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\x64\lua52.dll
@@ -238,47 +240,6 @@ D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.XIn
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
 D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\obj\x86\Release\TimGame.exe
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\obj\x86\Release\TimGame.pdb
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\FunSized.xnb
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\ball.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\blt.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\bottle_empty.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\bottle_filling.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\chest.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\dog.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\floor.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\key.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\SelectionArrow.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\Content\wall.png
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x64\KeraLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x64\lua52.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x64\NLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x86\KeraLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x86\lua52.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\x86\NLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\TimGame.exe
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\TimGame.pdb
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\KeraLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\MonoGame.Framework.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\NLua.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.XAudio2.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct3D11.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.DXGI.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct2D1.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.XInput.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.RawInput.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct3D9.dll
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\MonoGame.Framework.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.XAudio2.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct3D11.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.DXGI.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct2D1.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.XInput.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.RawInput.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\bin\Windows\Release\SharpDX.Direct3D9.xml
-D:\CsharpProjects\Roguelike\trunk\Source\TimGame\obj\x86\Release\TimGame.csprojResolveAssemblyReference.cache
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.exe
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\obj\x86\Release\TimGame.pdb
+D:\CsharpProjects\Monogame13 - Roguelike\TimGame\bin\Windows\Release\Content\lightStone.png

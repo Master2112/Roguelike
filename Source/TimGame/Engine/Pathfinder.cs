@@ -9,6 +9,7 @@ namespace TimGame.Engine
     {
         public static int MaxTries = 1000;
         public static bool AllowDiagonalMovement = false;
+        public static bool useWeighted = false; //EXPERIMENTAL
 
         public static List<Vector2> FindPathToWorldPos(Vector2 start, Vector2 end)
         {
@@ -66,46 +67,121 @@ namespace TimGame.Engine
 
                         if (room != null)
                         {
-                            if (room.NPossible && node.FromDir != PathfindConstants.Directions.North)//N
-                            {
-                                newNodes.Add(new pathNode(node.GridPosX, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.South));
-                            }
+                            bool didWeightedMove = false;
 
-                            if (room.EPossible && node.FromDir != PathfindConstants.Directions.East)//E
+                            if (useWeighted)
                             {
-                                newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.West));
-                            }
+                                Vector2 delta = target - new Vector2(node.GridPosX, node.GridPosY);
 
-                            if (room.SPossible && node.FromDir != PathfindConstants.Directions.South)//S
-                            {
-                                newNodes.Add(new pathNode(node.GridPosX, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.North));
-                            }
-
-                            if (room.WPossible && node.FromDir != PathfindConstants.Directions.West)//W
-                            {
-                                newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.East));
-                            }
-
-                            if (AllowDiagonalMovement)
-                            {
-                                if (room.NEPossible && node.FromDir != PathfindConstants.Directions.NorthEast)
+                                if (AllowDiagonalMovement && delta.X != 0 && delta.Y != 0)
                                 {
-                                    newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthWest));
+                                    if (delta.X > 0)
+                                    {
+                                        if (delta.Y < 0)
+                                        {
+                                            if (room.NEPossible && node.FromDir != PathfindConstants.Directions.NorthEast)
+                                            {
+                                                newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthWest));
+                                                didWeightedMove = true;
+                                            }
+                                        }
+                                        else
+                                        {
+                                            if (room.SEPossible && node.FromDir != PathfindConstants.Directions.SouthEast)
+                                            {
+                                                newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthWest));
+                                                didWeightedMove = true;
+                                            }
+                                        }
+                                    }
+                                    else
+                                    {
+                                        if (delta.Y < 0)
+                                        {
+                                            if (room.NWPossible && node.FromDir != PathfindConstants.Directions.NorthWest)
+                                            {
+                                                newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthEast));
+                                                didWeightedMove = true;
+                                            }
+                                        }
+                                        else
+                                        {
+                                            if (room.SWPossible && node.FromDir != PathfindConstants.Directions.SouthWest)
+                                            {
+                                                newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthEast));
+                                                didWeightedMove = true;
+                                            }
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    if (delta.Y < 0 && room.NPossible && node.FromDir != PathfindConstants.Directions.North)
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.South));
+                                        didWeightedMove = true;
+                                    }
+                                    else if (delta.X > 0 && room.EPossible && node.FromDir != PathfindConstants.Directions.East)//E
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.West));
+                                        didWeightedMove = true;
+                                    }
+                                    else if (delta.Y > 0 && room.SPossible && node.FromDir != PathfindConstants.Directions.South)//S
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.North));
+                                        didWeightedMove = true;
+                                    }
+                                    else if (delta.X < 0 && room.WPossible && node.FromDir != PathfindConstants.Directions.West)//W
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.East));
+                                        didWeightedMove = true;
+                                    }
+                                }
+                            }
+
+                            if (!didWeightedMove)
+                            {
+                                if (room.NPossible && node.FromDir != PathfindConstants.Directions.North)//N
+                                {
+                                    newNodes.Add(new pathNode(node.GridPosX, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.South));
                                 }
 
-                                if (room.NWPossible && node.FromDir != PathfindConstants.Directions.NorthWest)
+                                if (room.EPossible && node.FromDir != PathfindConstants.Directions.East)//E
                                 {
-                                    newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthEast));
+                                    newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.West));
                                 }
 
-                                if (room.SEPossible && node.FromDir != PathfindConstants.Directions.SouthEast)
+                                if (room.SPossible && node.FromDir != PathfindConstants.Directions.South)//S
                                 {
-                                    newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthWest));
+                                    newNodes.Add(new pathNode(node.GridPosX, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.North));
                                 }
 
-                                if (room.SWPossible && node.FromDir != PathfindConstants.Directions.SouthWest)
+                                if (room.WPossible && node.FromDir != PathfindConstants.Directions.West)//W
                                 {
-                                    newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthEast));
+                                    newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY, node.GridPathX, node.GridPathY, PathfindConstants.Directions.East));
+                                }
+
+                                if (AllowDiagonalMovement)
+                                {
+                                    if (room.NEPossible && node.FromDir != PathfindConstants.Directions.NorthEast)
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthWest));
+                                    }
+
+                                    if (room.NWPossible && node.FromDir != PathfindConstants.Directions.NorthWest)
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY + 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.SouthEast));
+                                    }
+
+                                    if (room.SEPossible && node.FromDir != PathfindConstants.Directions.SouthEast)
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX + 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthWest));
+                                    }
+
+                                    if (room.SWPossible && node.FromDir != PathfindConstants.Directions.SouthWest)
+                                    {
+                                        newNodes.Add(new pathNode(node.GridPosX - 1, node.GridPosY - 1, node.GridPathX, node.GridPathY, PathfindConstants.Directions.NorthEast));
+                                    }
                                 }
                             }
                         }

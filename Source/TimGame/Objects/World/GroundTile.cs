@@ -7,7 +7,7 @@ using TimGame.Engine;
 
 namespace TimGame.Objects.World
 {
-    class GroundTile : GameObject
+    class GroundTile : WorldObject
     {
         public static List<GroundTile> AllTiles;
 

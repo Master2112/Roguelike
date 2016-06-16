@@ -13,8 +13,6 @@ namespace TimGame.Engine
         private Vector2 lastLocalPos;
         private float lastLocalRot;
 
-        private bool debugLocalPosSet = false;
-
         public Transform(GameObject owner)
         {
             this.owner = owner;

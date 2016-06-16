@@ -22,7 +22,7 @@ namespace TimGame.Engine
         public void Start()
         {
             Instance = this;
-            LoadScene(new MainScene());
+            LoadScene(new CharSelect());
         }
 
         public void Update()

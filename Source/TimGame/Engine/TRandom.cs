@@ -9,6 +9,11 @@ namespace TimGame.Engine
     {
         private static System.Random rand = new System.Random();
 
+        public static bool Chance(float percentage)
+        {
+            return Value < percentage;
+        }
+
         public static float Value
         {
             get

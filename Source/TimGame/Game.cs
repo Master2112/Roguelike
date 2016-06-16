@@ -94,7 +94,7 @@ namespace TimGame
             GraphicsDevice.Clear(Renderer.BackgroundColor);
 
             // TODO: Add your drawing code here
-            spriteBatch.Begin();
+            spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend);
             game.Draw();
             base.Draw(gameTime);
             spriteBatch.End();

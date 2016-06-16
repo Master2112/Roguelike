@@ -19,7 +19,11 @@ namespace TimGame.Engine
             "blt",
             "wall",
             "floor",
-            "key"
+            "key",
+            "male_base",
+            "female_base",
+            "portal",
+            "lightStone"
         };
 
         public struct TexNameCombo
