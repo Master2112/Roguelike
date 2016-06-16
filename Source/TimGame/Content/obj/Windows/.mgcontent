@@ -4,6 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/CsharpProjects/Monogame13 - Roguelike/TimGame/Content/FunSized.spritefont</File>
+    <File>D:/CsharpProjects/Roguelike/trunk/Source/TimGame/Content/FunSized.spritefont</File>
   </SourceFiles>
 </SourceFileCollection>
